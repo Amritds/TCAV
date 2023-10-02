@@ -5,7 +5,7 @@ This project implements the TCAV method that quantifies the contribution of spec
 
 Paper : https://arxiv.org/abs/1711.11279
 
-<img src="./tcav-vector.jpg">
+<img src="./tcav-vector.png">
 
 ### Dependencies
 Python Version: **Python 3.7.1**
