@@ -1,9 +1,7 @@
 # Implementation of Quantitative Testing with Concept Activation Vectors (TCAV)
 
 ### Introduction
-This project implements the TCAV method that quantifies the contribution of specific image-concepts in deep network classifications: 
-
-Paper : https://arxiv.org/abs/1711.11279
+This project implements the [Quantitative Testing with Concept Activation Vectors (TCAV) method](https://arxiv.org/abs/1711.11279) that quantifies the contribution of specific image-concepts in deep network classifications: 
 
 <img src="./tcav-vector.png">
 
